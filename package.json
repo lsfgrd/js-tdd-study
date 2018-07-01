@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsfgrd/js-tdd-study.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Laís Figueiredo <laisfigsantos@gmail.com> (https://laisfigueiredo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsfgrd/js-tdd-study/issues"
+  },
+  "homepage": "https://github.com/lsfgrd/js-tdd-study#readme"
+}
